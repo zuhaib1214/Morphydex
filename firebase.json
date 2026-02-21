@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"morphy-dex","appId":"1:336012993585:android:e833d8b2b025ae635ae110","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"morphy-dex","configurations":{"android":"1:336012993585:android:e833d8b2b025ae635ae110","ios":"1:336012993585:ios:ff1982533f5b89c75ae110"}}}}}}
