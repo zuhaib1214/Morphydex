@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336012993585",
+    "project_id": "morphy-dex",
+    "storage_bucket": "morphy-dex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336012993585:android:e833d8b2b025ae635ae110",
+        "android_client_info": {
+          "package_name": "com.example.morphydex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2EU5BjLMEmo87ysJMbbAbj2ccOmyMH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
