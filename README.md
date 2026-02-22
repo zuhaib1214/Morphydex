@@ -1,16 +1,22 @@
-# morphydex
+# MorphyDex — Malnutrition Detection using CNN and Flutter Integration
 
-A new Flutter project.
+## 🩺 Project Overview
+**MorphyDex** is an AI-based health monitoring system designed to detect and classify **malnutrition in children** using image-based analysis.  
+A **custom-trained Convolutional Neural Network (CNN)** model was developed to identify malnourished versus healthy individuals. The system was deployed via a **FastAPI backend** and integrated with a **Flutter mobile application** for real-time, accessible health assessment.
 
-## Getting Started
+This project aims to support **early detection of malnutrition** in resource-limited settings, assisting medical professionals and NGOs in faster, automated screening.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Key Features
+- **CNN-based classification** of malnutrition from facial and physical features.  
+- **Custom dataset training** with balanced samples of malnourished and healthy individuals.  
+- **FastAPI backend** enabling real-time inference and scalable API architecture.  
+- **Flutter mobile application** integration for easy field deployment and visual feedback.  
+- **Optimized inference speed** suitable for low-power mobile devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Model Architecture
+``` id="yzqtxx"
+[Image Input] → [Preprocessing] → [CNN Model] → [Prediction (Healthy / Malnourished)] → [API → Flutter App]
